@@ -15,3 +15,11 @@
 Currently I'm on top 16% of overall stack overflow community.
 
 <a href="https://stackoverflow.com/users/6821441/abhishek-ekaanth"><img src="https://stackoverflow.com/users/flair/6821441.png" width="208" height="58" alt="profile for Abhishek on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Abhishek on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+<h3 align="center">Top languages</h3>
+
+<h6 align="center">▸ currently erroneous (lack of variance in public repos.)</h6>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ekaanth&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="Top Languages — Try refreshing" loading="lazy" /></p>
+
+<hr style="width:50%;text-align:left;margin-left:0">
