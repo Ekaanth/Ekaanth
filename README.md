@@ -5,6 +5,10 @@
 [![Abhishek's Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhiarys)
 [![Abhishek's StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6821441/abhishek-ekaanth)
 
+<!-- Views counter: -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ekaanth&label=Profile%20Views&color=000205&style=for-the-badge" alt="Profile Views — Try refreshing" /> </p>
+
 
 #### Github Stats 📊
 
