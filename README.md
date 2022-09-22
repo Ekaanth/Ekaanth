@@ -12,6 +12,6 @@
 
 ### Stack Overflow
 
-Currently I stand on top 16% of overall stack overflow community.
+Currently I'm on top 16% of overall stack overflow community.
 
 <a href="https://stackoverflow.com/users/6821441/abhishek-ekaanth"><img src="https://stackoverflow.com/users/flair/6821441.png" width="208" height="58" alt="profile for Abhishek on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Abhishek on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
