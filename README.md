@@ -7,7 +7,7 @@
 [![Abhishek's StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6821441/abhishek-ekaanth)
 
  <span>I'm a highly dedicated and curious software developer who has recently has greater interest in decentalized identity and self soregin identity.</span>
-  <span>Currently I'm learning solidity, nextjs, docker, kubernetes and project management.</span>
+  <span>Currently I'm learning solidity, Rust, reactnative , nextjs, docker, kubernetes and project management.</span>
   <br/>
     
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
@@ -31,3 +31,5 @@ Currently I'm on top 16% of overall stack overflow community.
 
 CSS : https://cssbattle.dev/player/humblefool94 (5997.95 points)
 
+
+Online resume: https://rxresu.me/akanth1994/abhishek-sira-chandrashekar
