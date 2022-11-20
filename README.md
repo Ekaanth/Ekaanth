@@ -32,8 +32,6 @@ Currently I'm on top 16% of overall stack overflow community.
 
 <p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ekaanth&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="Top Languages — Try refreshing" loading="lazy" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ekaanth)](https://git.io/streak-stats)
-
 CSS : https://cssbattle.dev/player/humblefool94 (5997.95 points)
 
 Online resume: https://rxresu.me/akanth1994/abhishek-sira-chandrashekar
