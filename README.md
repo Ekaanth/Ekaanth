@@ -5,6 +5,7 @@
 [![Abhishek's Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cryptohuduga)
 [![Abhishek's Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhiarys)
 [![Abhishek's StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6821441/abhishek-ekaanth)
+[![wakatime](https://wakatime.com/badge/user/bc7a8765-408a-42c0-9210-770f270d3365.svg)](https://wakatime.com/@bc7a8765-408a-42c0-9210-770f270d3365)
 
  <span>Dedicated and highly motivated master's graduate in AI with three plus years of experience in dynamic web development, one year of back-end, and almost two years of front-end development experience. Been in the crypto industry for nearly three years and have a strong understanding of fundaments. I'm curious about Defi, DID, and SSI solving data privacy and identity on web 3.0</span>
  
