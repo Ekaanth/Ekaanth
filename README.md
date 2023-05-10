@@ -9,10 +9,11 @@
 
  <span>Dedicated and highly motivated master's graduate in AI with three plus years of experience in dynamic web development, one year of back-end, and almost two years of front-end development experience. Been in the crypto industry for nearly three years and have a strong understanding of fundaments. I'm curious about Defi, DID, and SSI solving data privacy and identity on web 3.0</span>
  
- - 🌱 Learning React, Rust, Solidity, project managment.
+ - 🌱 Learning Rust, project managment and building a compnay.
  - ✍🏽 Currently writing about DID,SSI, and VC https://medium.com/@cryptohuduga 
- - 📫 Can reachout to me on https://twitter.com/abhiarys
- - 🙏🏾 Open to colab on web3 projects.
+ - 📫 Can find me on https://linktr.ee/humblefool94
+ - 🙏🏾 Currently, working with metaquity on building L1 asset fractionalisation on polkadot (www.metaquity.xyz)
+ - 🏠 Buuilding `ZKKeylesswallet` a one stop wallet solution for your digital and crypto wallet using ZKP. We have also recived a working grant for this proposal. 
     
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
