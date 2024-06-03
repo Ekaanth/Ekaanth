@@ -12,7 +12,7 @@
  - 🌱 Learning Rust, project managment and building a compnay.
  - ✍🏽 Currently writing about DID,SSI, and VC https://medium.com/@cryptohuduga 
  - 📫 Can find me on https://linktr.ee/humblefool94
- - 🙏🏾 Currently, working with metaquity on building L1 asset fractionalisation on polkadot (www.metaquity.xyz)
+ - 🙏🏾 Currently, I'm working with the Phyken network to bring green real-world assets on chain, Phyken deals with equity thereby we are working close with ERC-3643.
  - 🏠 ex-CTO at `walletzk.app` a one stop wallet solution for your digital and crypto wallet using ZKP. We have also recived a working grant for this proposal from Mina foundation.
     
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
@@ -24,7 +24,7 @@
 
 ### Stack Overflow
 
-Currently I'm on top 16% of overall stack overflow community.
+Currently, I'm in the top 15% of the overall stack overflow community.
 
 <a href="https://stackoverflow.com/users/6821441/abhishek-ekaanth"><img src="https://stackoverflow.com/users/flair/6821441.png" width="208" height="58" alt="profile for Abhishek on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Abhishek on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
