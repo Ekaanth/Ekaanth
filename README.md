@@ -1,6 +1,6 @@
 ![MasterHead](https://feature.undp.org/beyond-bitcoin/assets/hxFnAcINBZ/block2.gif)
 
-<h2>Hi there 👋, I'm Abhishek Ekaanth (Sira Chandrashekar) 🦀</h2>
+<h2>Hi there 👋, I'm Abhishek Sira Chandrashekar 🦀</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sira-chandrashekar-821244b7/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/humblefool)
